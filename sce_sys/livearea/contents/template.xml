@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<livearea style="a2" format-ver="01.00" content-rev="1">
+    <livearea-background>
+        <image>bg.png</image>
+    </livearea-background>
+
+    <gate>
+        <startup-image>startup.png</startup-image>
+    </gate>
+
+    <frame id="frame1" multi="o" autoflip="0">
+        <liveitem>
+            <text align="center" text-align="center" line-space="3" ellipsis="on">
+                <str color='#FFFFFF' size="30" bold="on" shadow="on">0.1.0</str>
+            </text>
+        </liveitem>
+    </frame>
+
+    <frame id="frame3" multi="o" autoflip="0">
+        <liveitem>
+            <text align="center" text-align="center" line-space="3" ellipsis="on">
+                <str color='#FFFFFF' size="30" bold="on" shadow="on">drinkmystery@hotmail.com</str>
+            </text>
+        </liveitem>
+    </frame>
+
+    <frame id="frame2" multi="o" autoflip="0">
+        <liveitem>
+            <text align="center" text-align="center" line-space="3" ellipsis="on">
+                <str color='#FFFFFF' size="30" bold="on" shadow="on">VITA2NPSC</str>
+            </text>
+        </liveitem>
+    </frame>
+</livearea>

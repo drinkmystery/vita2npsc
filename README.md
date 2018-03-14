@@ -1,4 +1,4 @@
-### VITA2NPSC
+## VITA2NPSC
 A psvita homebrew which upload NoNpDrm fake license to NoPayStation's database.  
 
 ## Requirements and Installation
